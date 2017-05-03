@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:textStyle="bold"
         android:textSize="50sp"
-        android:text="Hii Raj"
+        android:text="Hello Raj"
         android:layout_below="@+id/text1"
         android:layout_marginTop="50sp"
         android:layout_centerInHorizontal="true"/>
